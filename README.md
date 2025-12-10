@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @fakruddin01
-- 👀 I’m interested in fullstack web dev...
-- 🌱 I’m currently learning html  and css ...
-- 💞️ I’m looking to collaborate on any kind of web dev...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m MD Fakhruddin Razy
 
-<!---
-fakruddin01/fakruddin01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🎓 2nd-year Software Engineering student at Gümüşhane University
+* 👀 Passionate about Full-Stack Web Development
+* 🌱 Currently learning HTML, CSS, and JavaScript, and exploring backend concepts
+* 💻 Worked with C, PHP, Java, JavaScript, HTML, CSS
+* 🤝 Open to collaborating on **web projects**, student projects, and open-source contributions
+* 📫 Reach me: jfl.mfakhruddinrazy@gmail.com
+* 😄 Pronouns: **He/Him**
+* ✈️ Fun fact: I love traveling and discovering new places!
+
