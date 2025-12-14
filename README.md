@@ -13,9 +13,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/fakruddin01/Zero2End-ML-bootcamp-projesi.svg" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakruddin01&layout=compact&theme=dark" 
