@@ -1,11 +1,13 @@
-Hi, I’m MD Fakhruddin Razy
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fakruddin01 &show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
+       alt="Your GitHub Stats" 
+       width="400"
+  />
+</p>
 
-* 🎓 2nd-year Software Engineering student at Gümüşhane University
-* 👀 Passionate about Full-Stack Web Development
-* 🌱 Currently learning HTML, CSS, and JavaScript, and exploring backend concepts
-* 💻 Worked with C, PHP, Java, JavaScript, HTML, CSS
-* 🤝 Open to collaborating on **web projects**, student projects, and open-source contributions
-* 📫 Reach me: jfl.mfakhruddinrazy@gmail.com
-* 😄 Pronouns: **He/Him**
-* ✈️ Fun fact: I love traveling and discovering new places!
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakruddin01&layout=compact&theme=dark" 
+       alt="Top Languages" 
+       width="400"
+  />
+</p>
