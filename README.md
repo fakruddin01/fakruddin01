@@ -12,10 +12,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/fakruddin01/fakruddin01.svg" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakruddin01&layout=compact&theme=dark" 
@@ -23,3 +19,20 @@
        width="400"
   />
 </p>
+
+
+<div align="center">
+  <blockquote style="
+    background:#111827;
+    padding:20px;
+    border-radius:12px;
+    color:#e5e7eb;
+    max-width:700px;
+    font-style:italic;
+  ">
+       “I don’t write bugs.  
+       I write unexpected features.”
+
+  </blockquote>
+</div>
+
