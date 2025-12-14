@@ -12,6 +12,11 @@
   />
 </p>
 
+
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/fakruddin01/REPO_NAME.svg" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakruddin01&layout=compact&theme=dark" 
        alt="Top Languages" 
