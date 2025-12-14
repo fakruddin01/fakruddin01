@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,ts,html,css,react,nodejs,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,html,css,tailwind,react,nodejs,wordpress,figma,git,github,linux,vscode" />
 </p>
+
 
 
 <p align="center">
