@@ -10,10 +10,6 @@
        alt="Your GitHub Stats" 
        width="400"
   />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakruddin01&layout=compact&theme=dark" 
-       alt="Top Languages" 
-       width="400"
 </p>
 
 
