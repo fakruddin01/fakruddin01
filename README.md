@@ -5,34 +5,18 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakruddin01&show_icons=true&theme=transparent&include_all_commits=true" 
-       alt="Your GitHub Stats" 
-       width="400"
-  />
-</p>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.fakhruddin_razy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fakhruddin-razy-s23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jfl.mfakhruddinrazy@gmail.com) 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakruddin01&layout=compact&theme=dark" 
-       alt="Top Languages" 
-       width="400"
-  />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=fakruddin01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fakruddin01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fakruddin01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<div align="center">
-  <blockquote style="
-    background:#111827;
-    padding:20px;
-    border-radius:12px;
-    color:#e5e7eb;
-    max-width:700px;
-    font-style:italic;
-  ">
-       “I don’t write bugs.  
-       I write unexpected features.”
+  ## BUY ME A COFEE
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/mfrazy) 
 
-  </blockquote>
-</div>
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
